@@ -22,10 +22,10 @@ export const createOrUpdateUser = mutation({
 
         // Check if this email should be admin
         const adminEmails = [
-            "bidhandhakal365@gmail.com",
-            "saugatoli808@gmail.com",
-            "ironveerfitnessfitness@gmail.com",
-            "abhisanpardhe4@gmail.com"
+            "aouns6229@gmail.com",
+            "nayabs6224@gmail.com",
+            "syedaounshah165@gmail.com"
+           
         ];
 
         const isAdmin = adminEmails.includes(args.email);
