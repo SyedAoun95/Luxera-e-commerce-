@@ -1,7 +1,7 @@
 export default {
     providers: [
         {
-            domain: "https://causal-crow-37.clerk.accounts.dev",
+            domain: "https://intent-panther-23.clerk.accounts.dev",
             applicationID: "convex",
         },
     ]
